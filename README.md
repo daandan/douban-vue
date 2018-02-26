@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # todou
 
 > A Vue.js project
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# douban-vue
+>>>>>>> ed05bdd663447c31ab5450ff433bf4077d240bf8
